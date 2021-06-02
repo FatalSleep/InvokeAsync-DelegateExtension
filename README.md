@@ -1,5 +1,5 @@
 # InvokeAsync-DelegateExtension
-Better implementation for invokable async events by Aepot on StackExchange.
+Better implementation for invokable async events by Aepot on StackExchange: https://codereview.stackexchange.com/a/261483/46666
 
 Invokable asynchronous event handling via a delegate extension method. Name is irrelevant, must be static and public to work. Requires the following include: `System`, `System.Linq` and `System.Threading.Tasks`.
 ```C#
